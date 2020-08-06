@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9439d8697fa14148995a4411e39c583, type: 3}
+  m_Name: TextureData
+  m_EditorClassIdentifier: 
+  Shadow: {fileID: 21300000, guid: f1e804d0a54baf84e802d00b751fdafa, type: 3}
+  Bubble: {fileID: 2100000, guid: ea6cfcd10c17b134b8e545d53efe8823, type: 2}
+  plHand: {fileID: 21300000, guid: ee3abe01244f4c04d97b0f0eae4ff82f, type: 3}
+  goal: {fileID: 21300000, guid: ec89cc9c0f835aa429f2b27b897a320e, type: 3}
+  score: {fileID: 21300000, guid: 522f677dd4fbba84a886f82e512414ba, type: 3}
+  PYS_Player: {fileID: 13400000, guid: b3ef8a426bf1e48409e1ea766131da05, type: 2}
+  FONT: {fileID: 11400000, guid: d75164dd22bfd264e956415588c8141d, type: 2}
+  GUI_LevelFinishP1: {fileID: 21300000, guid: 5bff741b9512ee44f89fadc066e54a4c, type: 3}
+  GUI_LevelFinishP2: {fileID: 21300000, guid: 2c447363e16def444a14b4e4abac1ec5, type: 3}
+  GUI_GameOverP1: {fileID: 21300000, guid: 6c0d0719f6d2b8945b48a6771b2ecc9d, type: 3}
+  GUI_GameOverP2: {fileID: 21300000, guid: a473e905d90bfbf40bbcf071afa01698, type: 3}
+  GUI_YouDied: {fileID: 21300000, guid: f628759e3c6e5974a8da50460ded2680, type: 3}
+  GUI_Ready: {fileID: 21300000, guid: 1ccd927898d406342b8499a30925beb2, type: 3}
+  GUI_Set: {fileID: 21300000, guid: d2e2b9001485b2647a01f6d9bfc4c0e3, type: 3}
+  GUI_Go: {fileID: 21300000, guid: 6d05eb82119408249a1e7e8ca49d4f68, type: 3}
+  GUI_Indicator: {fileID: 21300000, guid: 9465b9fd88e0f80479f045270310e62b, type: 3}
+  GUI_Scale: {fileID: 21300000, guid: 8ccc7cca718cb1044a44c978a5c9718e, type: 3}
+  GUIFACE_Melvin: {fileID: 21300000, guid: d312c9b061e97cd4aa543d7de242ff7d, type: 3}
+  GUIFACE_MelvinHappy: {fileID: 21300000, guid: cb7fbff51ebe3e642b7614c19d5393d9,
+    type: 3}
+  GUIFACE_MelvinDeath: {fileID: 21300000, guid: 02bbef9a1e2e7384baa846ede7ae7f0a,
+    type: 3}

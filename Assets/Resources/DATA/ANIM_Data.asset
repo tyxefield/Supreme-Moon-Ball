@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55622c6d491867d44870762ca9dcc4a2, type: 3}
+  m_Name: ANIM_Data
+  m_EditorClassIdentifier: 
+  melvin: {fileID: 9100000, guid: 2cb7a14b97c055d489f9886312c02cb0, type: 2}
+  plHand: {fileID: 9100000, guid: 0b17768e9b54ad245a0ad82edd39eb4b, type: 2}
+  GUI_YouDied: {fileID: 9100000, guid: 0e5fe6b46eca67a48bf5cd0577de5745, type: 2}
+  GUI_GO: {fileID: 9100000, guid: 7c563a10e9a9a44468a8aa0c2c434ed8, type: 2}
+  GUI_Head: {fileID: 9100000, guid: 28f573a655c2ea14eb14f3e0b2313ee0, type: 2}
+  GUI_LeftTextSpam: {fileID: 9100000, guid: fe0ecbaab65584c4e89c2aa413d2c451, type: 2}
+  GUI_RightTextSpam: {fileID: 9100000, guid: 90d1f742bc126694084c35bd24445d3a, type: 2}
+  PLAT_Xmove: {fileID: 9100000, guid: 1a95f709fd57a2b4fb4844179cc8b8c2, type: 2}
