@@ -1,4 +1,4 @@
-# Supreme-Moon-Ball
+# Supreme Moon Ball by Dennis Nahogara
 
 ![Supreme Moon Ball](https://img.itch.zone/aW1hZ2UvNjYyOTc0LzM1OTgzODEuZ2lm/250x600/SXEHAG.gif)
 ______________________________________________
